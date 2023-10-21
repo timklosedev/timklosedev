@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Rust
+- 📫 How to reach me: contact@timklose.com
+
 <!--
 **timklosedev/timklosedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
